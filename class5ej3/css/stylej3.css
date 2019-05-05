@@ -1,0 +1,62 @@
+body{
+  font-family: "Quicksand";
+}
+.txtitle{
+  color: #747704;
+  text-transform:  uppercase;
+  text-align:  right;
+}
+.imgtitle{
+  position: absolute;
+}
+.titlepag{
+  border-bottom: 5px solid #BCBBBB;
+  position:  sticky;
+  top: 0;
+  background-color: #ffffff;
+}
+.imagprin{
+  text-align: center;
+  padding-top: 25px;
+
+
+}
+.imags{
+  text-align: center;
+  margin: 0 20%;
+}
+.listimag{
+  display: flex;
+	flex-direction: row;
+  text-align: center;
+  list-style: none;
+}
+.txtimgtitle{
+  margin-left: 20%;
+}
+li{
+  padding: 20px;
+}
+.txtimgtitle{
+  color: #BCBBBB;
+}
+a{
+  color: #BCBBBB;
+  text-decoration: none;
+}
+li h2{
+  color: #747704;
+  font-size: 30px;
+  margin-bottom: 2px;
+}
+h5{
+  margin-top: 4px;
+}
+h1{
+  font-size: 80px;
+  margin: 0 5px;
+  font-weight: normal;
+}
+h3{
+  margin-top: 2px;
+}

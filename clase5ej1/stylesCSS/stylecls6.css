@@ -1,0 +1,25 @@
+body{
+	font-family: "Arial";
+	margin: 200px 200px;
+}
+
+.title h1{
+	color: #ffffff;
+	background-color: #33BEBE;
+	font-weight: normal;
+	padding-top: 30px;
+}
+
+.text{
+	color: #7C8B88;
+}
+
+.content{
+	margin: 0 auto;
+	margin-left: 250px;
+}
+
+.imag{
+	position: absolute;
+}
+
